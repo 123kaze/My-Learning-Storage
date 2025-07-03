@@ -72,7 +72,7 @@
 //块级元素 div h p form ...
 //行级元素 span image a strong em vedio ...
 <strong> 对内容进行加粗 <em> 将某些内容改为斜体 <a> 链接标签，可以去其他页面或者其他网站，a一般需要属性，如href
-
+<span> 将文档中的某部分独立出来
 <a href="http:xxxx.com">repudiandae?</a>  //用法例子
 <a href="http:xxxx.com" target="_blank">repudiandae?</a>  //如果希望在新标签中打开页面，则加一个target属性
 ```
