@@ -10,7 +10,7 @@ let light 定义一个light变量 同样，还有const var function也能创建�
 
 ## 数据结构
 
-在js里面，所有数据底层都是对象，对象：object，一堆数据的集合
+在js里面，所有数据底层都是对象，对象：object，一堆数据的集合 
 
 ```
 //形式

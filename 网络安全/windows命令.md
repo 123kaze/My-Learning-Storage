@@ -77,6 +77,10 @@ Ethernet adapter Ethernet:
 
 我们将这四个选项组合起来并执行 `netstat -abon` 命令。结果很长，但我们在下面的终端中显示前几行。现在很明显，可执行 `sshd.exe` 负责侦听端口 22 上的传入连接，如第一行所示。我们还可以看到与每个连接关联的进程 ID （PID）。
 
+```
+taskkill /F /FI "USERNAME eq 用户名"  强制终止某用户进程
+```
+
 
 
 ## 文件和磁盘管理
